@@ -2,7 +2,7 @@
 
 **주제** : Figma를 사용해 아토믹(atomic) 컴포넌트를 설계(design)한 후, 리액트 컴포넌트로 구현합니다.
 
-
+[Figma](https://www.figma.com/file/yrqOJbPBtbpgyGGRfuvl3y/%EC%95%84%ED%86%A0%EB%AF%B9-%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=0-1&mode=design&t=N2topnr0cuvdqXDE-0)
 
 ## Structure
 - main.jsx
@@ -28,6 +28,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 ## RESULT
 ![result](https://github.com/wlstmd1004v/react-homework/assets/111503649/395d4d50-e04f-4d91-bfa7-1f6353ce5f6e)
+
+
 
 
 
