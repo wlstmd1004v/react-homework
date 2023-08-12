@@ -1,12 +1,3 @@
-# React Homework
-
-**주제** : Figma를 사용해 아토믹(atomic) 컴포넌트를 설계(design)한 후, 리액트 컴포넌트로 구현합니다.
-
-
-
-## Structure
-- main.jsx
-```jsx
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import EUID from './components/EUID'
@@ -23,12 +14,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <YamooButton />
   </React.StrictMode>,
 )
-
-```
-
-## RESULT
-![result](https://github.com/wlstmd1004v/react-homework/assets/111503649/395d4d50-e04f-4d91-bfa7-1f6353ce5f6e)
-
-
-
-다음번에는 버튼을 클릭시 변경되게 구현할 생각입니다
